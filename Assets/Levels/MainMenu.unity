@@ -621,7 +621,7 @@ GameObject:
   - component: {fileID: 1349730606}
   - component: {fileID: 1349730605}
   m_Layer: 5
-  m_Name: night's (1)
+  m_Name: dventure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -643,8 +643,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 22, y: -6}
-  m_SizeDelta: {x: 233.0224, y: 91.9021}
+  m_AnchoredPosition: {x: 26, y: -6}
+  m_SizeDelta: {x: 326.814, y: 91.9021}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1349730605
 MonoBehaviour:
@@ -709,7 +709,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: UN
+  m_Text: DVENTURE
 --- !u!222 &1349730608
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -732,7 +732,7 @@ GameObject:
   - component: {fileID: 1643643990}
   - component: {fileID: 1643643989}
   m_Layer: 5
-  m_Name: K (1)
+  m_Name: A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -754,7 +754,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -50.197, y: 14}
+  m_AnchoredPosition: {x: -154.89578, y: 14}
   m_SizeDelta: {x: 162.6208, y: 182.8532}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1643643989
@@ -820,7 +820,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: R
+  m_Text: A
 --- !u!222 &1643643992
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1828,7 +1828,9 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4750536589354427844, guid: fa0a903776c8b9f4bbf0fd82581d3914, type: 3}
+    - {fileID: 4750536589486108835, guid: fa0a903776c8b9f4bbf0fd82581d3914, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4750536588697498015, guid: fa0a903776c8b9f4bbf0fd82581d3914, type: 3}
       insertIndex: -1

@@ -14,3 +14,5 @@ Harap dicatat bahwa repo ini merupakan versi *backup* mentah. Karena beberapa ke
 
 ## Gameplay Demo
 Saya telah menyertakan video singkat yang menunjukkan *gameplay* saat ini. Video ini berfungsi sebagai dokumentasi progres sebelum perbaikan lebih lanjut dilakukan.
+Berikut adalah video demo gameplay:
+![Demo Gameplay](Video%20Demo.mp4)

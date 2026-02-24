@@ -35,3 +35,7 @@ Desktop.ini
 # Crash reports
 sysinfo.txt
 /[Cc]rash[Rr]eports/
+
+/[Bb]uilds/
+/[Bb]uild/
+*.exe
